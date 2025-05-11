@@ -2,8 +2,9 @@
   "name": "helloreact",
   "version": "1.0.0",
   "description": "this is reactProject by ashok",
-  "main": "App.js",
   "scripts": {
+    "start":"parcel index.html",
+    "build":"parcel build index.html",
     "test": "jest"
   },
   "repository": {
@@ -25,5 +26,9 @@
   "homepage": "https://github.com/ASHOKECE1999/ReactDev#readme",
   "devDependencies": {
     "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
   }
 }

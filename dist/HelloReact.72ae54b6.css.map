@@ -1,0 +1,1 @@
+{"mappings":"ACAA","sources":["HelloReact.72ae54b6.css","index.css"],"sourcesContent":["#ashokFromReact {\n  color: red;\n}\n/*# sourceMappingURL=HelloReact.72ae54b6.css.map */\n","#ashokFromReact{\r\n    color: red;\r\n}"],"names":[],"version":3,"file":"HelloReact.72ae54b6.css.map"}
